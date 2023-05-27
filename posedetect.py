@@ -16,7 +16,7 @@ landmarks = ['x1', 'y1', 'z1', 'v1', 'x2', 'y2', 'z2', 'v2', 'x3', 'y3', 'z3', '
              'z32', 'v32', 'x33', 'y33', 'z33', 'v33']
 window = tk.Tk()
 window.geometry("660x500")
-window.title("OpenCV Pose")
+window.title("OpenCV Pose Detect")
 ck.set_appearance_mode("dark")
 big_frame = ttk.Frame(window)
 big_frame.pack(fill="both", expand=True)
